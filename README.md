@@ -29,6 +29,10 @@ If you discover any security related issues, please email hello@alphaolomi.com i
 -   [@AlphaOlomi][link-author] **Alpha Olomi**
 -   [All Contributors][link-contributors]
 
+## References
+
+A Python implementation of the Wiener attack on RSA public-key encryption scheme. Github: [pablocelayes/rsa-wiener-attack](https://github.com/pablocelayes/rsa-wiener-attack)
+
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
